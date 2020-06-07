@@ -1,0 +1,17 @@
+{
+  "name": "@bijuushadowlink4/mediaplayer",
+  "version": "1.0.0",
+  "description": "Proyecto de MediaPlayer.",
+  "main": "lib/MediaPlayer.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edison Proaño",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {}
+}

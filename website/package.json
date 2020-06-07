@@ -1,0 +1,25 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Proyecto de Media Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+  },
+  "keywords": [
+    "Media Player"
+  ],
+  "author": "Edison Proano",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.5"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "@bijuushadowlink4/mediaplayer": "^1.0.0"
+  }
+}
